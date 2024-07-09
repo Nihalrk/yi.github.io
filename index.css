@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+header,h1{
+    text-align: center;
+    font-size: larger;
+    
+}
+table{
+    padding: 0%;
+    margin: 20px solid #111;
+    background-color: aliceblue;
+    text-align:center;
+    align-items: center;
+    
+}
+td,th,td{
+    text-align: center;
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
